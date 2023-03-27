@@ -18,7 +18,7 @@ class WeatherRepo{
 
   Future<Weather?> getCurrentWeather() async {
     Weather? weather;
-    String apiKey = "c365c9c608a4d092689872fc050e9112";
+    String apiKey = "xyc365c9c608a4d092689872fc050e9112";
     Position position = await getCurrentLocation();
 
     // double lat = position.latitude;
