@@ -1,4 +1,5 @@
 # WeatherAppV1
+# FEELS
 
 A WeatherApp in Flutter using OpenWeatherAPI and setState() in a 3 tier architecture. (Presentation-Data-Domain)
 
