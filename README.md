@@ -1,16 +1,8 @@
-# weatherwj
+## WeatherAppV1
 
-A new Flutter project.
+A WeatherApp in Flutter using OpenWeatherAPI and setState() in a 3 tier architecture. (Presentation-Data-Domain)
 
-## Getting Started
+# Screenshots:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Screenshot-2023-03-27-at-12-36-07-PM.png](https://i.postimg.cc/gcSJ5rsY/Screenshot-2023-03-27-at-12-36-07-PM.png)](https://postimg.cc/Sj9kYSH5)
+[![Screenshot-2023-03-27-at-12-33-03-PM.png](https://i.postimg.cc/MTBYMyXY/Screenshot-2023-03-27-at-12-33-03-PM.png)](https://postimg.cc/gXYh1LVw)
